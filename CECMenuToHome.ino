@@ -1,5 +1,5 @@
 #include <stdarg.h>
-#include "CEClient.h" // https://github.com/arpruss/cec
+#include "CEClient.h" // https://github.com/arpruss/ArduinoLib_CEClient
 #include <ctype.h>
 
 #define memzero(p,n) memset((p),0,(n))
